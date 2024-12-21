@@ -1,2 +1,4 @@
-package org.projet.auth.Service;public class UserService {
+package org.projet.auth.Service;
+
+public class UserService {
 }
